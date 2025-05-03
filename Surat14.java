@@ -20,5 +20,4 @@ public class Surat14 {
         System.out.println("Jenis Izin : " + (jenisIzin == 'S' ? "Sakit" : "Izin Keperluan lain"));
         System.out.println("Durasi     : " + durasi + " hari");
     }
-    
 }

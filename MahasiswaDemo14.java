@@ -5,7 +5,7 @@ public class MahasiswaDemo14 {
         Scanner scan = new Scanner(System.in);
 
         StackTugasMahasiswa14 stack = new StackTugasMahasiswa14(5);
-        int pilih; //Tambahkan deklarasi variabel pilih
+        int pilih;
 
         do {
             System.out.println("\nMenu:");

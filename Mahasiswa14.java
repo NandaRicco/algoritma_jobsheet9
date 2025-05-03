@@ -2,7 +2,7 @@ public class Mahasiswa14 {
     String nama;
     String nim;
     String kelas;
-    int nilai; //Perlu menambahkan int nilai
+    int nilai;
 
     Mahasiswa14(String nama, String nim, String kelas){ //Ganti namanya dari Mahasiswa menjadi Mahasiswa14
         this.nama = nama;
